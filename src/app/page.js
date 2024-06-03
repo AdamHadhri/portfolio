@@ -67,7 +67,7 @@ function Home() {
       <div className="flex flex-col gap-6 items-center">
             <p className="text-5xl font-semibold mb-4 text-[#E2C89E]">My Projects</p>
             <div className="w-full flex gap-6 justify-center">
-              <a href="" target="_blank" className=" hover:scale-110 bg-[#EE761B] h-48 w-80 rounded-xl flex overflow-hidden hover:contrast-150 cursor-pointer">
+              <a href="https://adamhadhri.github.io/ecommerce/" target="_blank" className=" hover:scale-110 bg-[#EE761B] h-48 w-80 rounded-xl flex overflow-hidden hover:contrast-150 cursor-pointer">
                 <Image src={stylish}/>
               </a>
               <a href="https://adamhadhri.github.io/todo-list/" target="_blank" className="hover:scale-110 bg-[#EE761B] h-48 w-80 rounded-xl flex overflow-hidden	hover:contrast-150 cursor-pointer">
